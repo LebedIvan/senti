@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+pandas
+nltk
+textblob
+matplotlib
+seaborn
+selenium
+webdriver-manager
+flask
+flask_sqlalchemy
+flask_login
+flask_wtf
+stripe
+transformers
+torch
